@@ -1,3 +1,5 @@
+package org.practice;
+
 import java.util.Arrays;
 import java.util.Scanner;
 
