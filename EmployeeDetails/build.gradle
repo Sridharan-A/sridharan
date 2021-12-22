@@ -2,7 +2,7 @@ plugins {
     id 'java'
     id 'application'
 }
-mainClassName = "org.emp.Employee"
+mainClassName = 'org.emp.Employee'
 jar {
     manifest {
         attributes(
@@ -19,6 +19,7 @@ repositories{
 dependencies {
     // https://mvnrepository.com/artifact/org.javamoney/moneta
     implementation 'org.javamoney:moneta:1.4.2'
+
 }
 
 
